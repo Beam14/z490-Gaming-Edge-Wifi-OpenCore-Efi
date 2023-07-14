@@ -1,0 +1,1 @@
+# z490-Gaming-Edge-Wifi-OpenCore-Efi
